@@ -69,7 +69,15 @@
       padding: 64px 48px 64px 48px;
     }
   }
-  
+  .temporary-container{
+    display:flex;
+color:#64748b;
+margin-top:8px
+  }
+.temporary-description{
+  margin-left:5px;
+  font-size:13px
+}
   .input-container {
     display: flex;
     flex-direction: column;
